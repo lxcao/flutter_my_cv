@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:flutter_my_cv/pages/setting_drivingcycle_page.dart';
 import 'package:flutter_my_cv/pages/setting_iot_page.dart';

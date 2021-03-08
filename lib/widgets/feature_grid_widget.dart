@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:flutter_my_cv/utils/constants.dart';
 import 'package:flutter_my_cv/models/Feature.dart';
