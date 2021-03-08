@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 
 class FeatureCard extends StatelessWidget {
   final Feature feature;
-  FeatureCard({Key key, this.feature}) : super(key: key);
+  FeatureCard({required this.feature});
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
